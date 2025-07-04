@@ -19,20 +19,68 @@ Aquí tienes un ejemplo de cómo usar nuestra librería para graficar datos y ca
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ejemplo de miLibreria.js</title>
-    <script src="libreria.js"></script>
+    <link rel="stylesheet" href="css/componente.css">
+    <script src="js/datos.js"></script>
+    <title>Gráficas y Resultados Estadísticos</title>
 </head>
-<body>
-    <h1>Ejemplo de Gráficos y Estadísticas</h1>
-    <canvas id="lineChart" width="400" height="200"></canvas>
-    <canvas id="pieChart" width="200" height="200"></canvas>
-    <canvas id="barChart" width="400" height="200"></canvas>
-    <div id="estadisticas">
-        <p id="media"></p>
-        <p id="mediana"></p>
-        <p id="moda"></p>
+<body>   
+    <h1 class="text-center mb-4 text-bg-dark">Gráficas Mensuales</h1>
+        <div class="container mt-5">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <h3 class="text-center mb-4 text-bg-dark">Gráfica de linea</h3>
+                            <canvas id="lineChart" width="1400" height="500"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container mt-5">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <h3 class="text-center mb-4 text-bg-dark">Gráfica de Pastel</h3>
+                            <canvas id="pieChart" width="1400" height="500"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container mt-5">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="card shadow">
+                        <div class="card-body">
+                            <h3 class="text-center mb-4 text-bg-dark">Histograma</h3>
+                            <canvas id="barChart" width="1400" height="500"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow">
+                    <div class="card-body">
+                        <div class="results">
+                            <h2 class="text-center mb-4 text-bg-dark">Resultados Estadísticos</h2>
+                            <p id="media"></p>
+                            <p id="mediana"></p>
+                            <p id="moda"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  <script src="libreria.js"></script>
+<script src="js/libreria.js"></script>
 </body>
 </html>
+
+# Capturas de Pantalla
+![Grafica de lineas]()
 
