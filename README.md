@@ -14,6 +14,8 @@ Para incluir la librería en tu proyecto HTML, simplemente descarga el archivo `
 
 # Uso
 Aquí tienes un ejemplo de cómo usar nuestra librería para graficar datos y calcular estadísticas:
+![]()
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
