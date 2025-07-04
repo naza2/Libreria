@@ -15,7 +15,7 @@ Para incluir la librería en tu proyecto HTML, simplemente descarga el archivo `
 # Uso
 Aquí tienes un ejemplo de cómo usar nuestra librería para graficar datos y calcular estadísticas:
 ![](https://github.com/naza2/Libreria/blob/2adc19af4e485d26d5e718534ed581a5440eaff1/ejemplo1.png)
-![]()
+![](https://github.com/naza2/Libreria/blob/f321fa9cb23db1682333fd49920d1bbed7d2c8bc/ejemplo2.png)
 
 <!DOCTYPE html>
 <html lang="es">
