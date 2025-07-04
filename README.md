@@ -1,2 +1,2 @@
 # Libreria
-Libreria para Gráficas Mensuales
+Librería JavaScript para gráficos y cálculos estadísticos
