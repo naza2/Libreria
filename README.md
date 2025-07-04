@@ -43,3 +43,8 @@ A continuación, se presenta un ejemplo de implementación de `libreria.js` en u
 ![Histograma](https://github.com/naza2/Libreria/blob/36c2e51a7294855e73cddcf47307db9ca96aaee6/Histograma.png)
 ![Resultados Estadísticos](https://github.com/naza2/Libreria/blob/36c2e51a7294855e73cddcf47307db9ca96aaee6/Resultados%20Estadisticos.png)
 
+# Video
+https://youtu.be/7H8NDeDmpFI?si=liNCue3QCYMBVqLx
+
+
+
